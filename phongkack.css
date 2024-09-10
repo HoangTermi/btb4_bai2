@@ -1,0 +1,50 @@
+.menu{
+    margin-left: 0;
+    font-size: 15px;
+    background-color: rgb(210, 177, 177);
+    color: rgb(167, 202, 202);
+    position: fixed;
+    background-color: #282A35;
+    color: #f1f1f1;
+    padding: 0;
+    letter-spacing: 1px;
+    font-family: 'Source Sans Pro Topnav', sans-serif;
+    font-size: 0;
+    top: 56px;
+    z-index: 2;
+    width: 100%;
+    white-space: nowrap;
+    overflow: auto;
+    scrollbar-width: none;
+    box-sizing: inherit;
+    position: fixed;
+    background-color: #282A35;
+    color: #f1f1f1;
+    padding: 0;
+    letter-spacing: 1px;
+    font-family: 'Source Sans Pro Topnav', sans-serif;
+    font-size: 0;
+    top: 56px;
+    z-index: 2;
+    width: 100%;
+    white-space: nowrap;
+    overflow: auto;
+    scrollbar-width: none;
+
+}
+html, body {
+    font-family: Verdana, sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+    color: inherit;
+}
+.menu li{
+    margin-right: auto;
+}
+.menu li a{
+    color: white;
+    padding: 5px 10px;
+}
+.menu li a:hover{
+    background-color: black;
+}
